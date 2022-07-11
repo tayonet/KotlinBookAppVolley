@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinBookApp</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Dashboard Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="favourite_fragment">Favourite Fragment</string>
+    <string name="about_fragment">About App Fragment</string>
+</resources>
